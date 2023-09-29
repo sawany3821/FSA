@@ -1,0 +1,65 @@
+[
+    {
+        "model": "corporations.corporation",
+        "pk": 1,
+        "fields": {
+            "edinet_code": "E00004",
+            "sec_code": 13760,
+            "jcn": 5070001000715,
+            "corporation_type": "内国法人・組合",
+            "listing_type": true,
+            "linking_type": true,
+            "capital": 1491,
+            "setting_day": "2021-5-31",
+            "location": "前橋市古市町一丁目50番地12",
+            "industry_type": "水産・農林業",
+            "name": "カネコ種苗株式会社",
+            "name_eng": "KANEKO SEEDS CO., LTD.",
+            "name_kana": "カネコシュビョウカブシキガイシャ",
+            "created_at": "2021-5-31T00:00:00+09:00",
+            "updated_at": "2021-5-31T00:00:00+09:00"
+        }
+    },
+    {
+        "model": "corporations.corporation",
+        "pk": 2,
+        "fields": {
+            "edinet_code": "E00006",
+            "sec_code": 13770,
+            "jcn": 6020001008662,
+            "corporation_type": "内国法人・組合",
+            "listing_type": true,
+            "linking_type": true,
+            "capital": 13500,
+            "setting_day": "2021-5-31",
+            "location": "横浜市都筑区仲町台2-7-1",
+            "industry_type": "水産・農林業",
+            "name": "株式会社　サカタのタネ",
+            "name_eng": "SAKATA SEED CORPORATION",
+            "name_kana": "カブシキガイシャ　サカタノタネ",
+            "created_at": "2021-5-31T00:00:00+09:00",
+            "updated_at": "2021-5-31T00:00:00+09:00"
+        }
+    },
+    {
+        "model": "corporations.corporation",
+        "pk": 3,
+        "fields": {
+            "edinet_code": "E00007",
+            "sec_code": 13750,
+            "jcn": 1010001185037,
+            "corporation_type": "内国法人・組合",
+            "listing_type": true,
+            "linking_type": true,
+            "capital": 119,
+            "setting_day": "2021-3-31",
+            "location": "南魚沼市余川89番地",
+            "industry_type": "水産・農林業",
+            "name": "株式会社雪国まいたけ",
+            "name_eng": "YUKIGUNI MAITAKE CO.,LTD.",
+            "name_kana": "カブシキカイシャユキグニマイタケ",
+            "created_at": "2021-3-31T00:00:00+09:00",
+            "updated_at": "2021-3-31T00:00:00+09:00"
+        }
+    }
+]
